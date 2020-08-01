@@ -5,4 +5,4 @@ GDPS Maker is a program written in Python to help you make your Geometry Dash Pr
 - GDPS only needs your credintals so you can sit back relax while GDPS Maker creates
 - GDPS Maker has the GMDPrivateServer's files made by Cvolton already implemented so you won't need to download anything
 # How do I use this?
-Don't download the ZIP of this repository, instead go [here](
+Don't download the ZIP of this repository, instead go [here](https://github.com/Intelligent-Cat/GDPS-Maker/releases) and download any release you would prefer(personally I recommend the latest release and not pre-releases).
