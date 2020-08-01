@@ -1,0 +1,8 @@
+{
+    "database-file": "database.sql",
+    "config-editor-file": "config/connection.php",
+    "config-editor-database-host": "$servername",
+    "config-editor-database-user": "$username",
+    "config-editor-database-pass": "$password",
+    "config-editor-database-name": "$dbname"
+}
