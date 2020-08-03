@@ -1,4 +1,5 @@
 {
+    "name": "GMDPrivateServer",
     "database-file": "database.sql",
     "config-editor-file": "config/connection.php",
     "config-editor-database-host": "$servername",
