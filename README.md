@@ -1,5 +1,5 @@
 # GDPS-Maker
-GDPS Maker is a program written in Python and PHP (along with a plethora of other languages coming soon) to help you make your Geometry Dash Private Server (also known as GDPS) much easier.
+GDPS Maker is a tool written in Python and PHP (along with a plethora of other languages coming soon) to help you make your Geometry Dash Private Server setup much easier.
 # Why GDPS Maker?
 - GDPS Maker can make both server-side of your GDPS and client-side
 - GDPS only needs your credentials so you can sit back and relax while GDPS Maker creates your GDPS
