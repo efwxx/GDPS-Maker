@@ -5,7 +5,7 @@
 ### Usage
 #### Prerequisites:
 - Python 3.7 or later
-- your desired client (either the PC version of Geometry Dash or the Android version, iOS coming soon.)
+- your desired client; for iOS refer to [this repository.](https://github.com/DimisAIO/2.2-iOS) (Credits to DimisAIO!)
 
 Cool, I have all the Prereqs. What do I do now?
 - Follow the steps displayed in front of you when running the script. :)
